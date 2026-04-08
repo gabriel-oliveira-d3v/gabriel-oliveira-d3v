@@ -48,13 +48,13 @@
   <img title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img title="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <!-- Backend -->
-  <img title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img title="Django" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img title="FastAPI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
   <img title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <!-- Ferramentas -->
   <img title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/mariadb-original.svg" />
+</p>
+<img title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/linux-original.svg" />
 </p>
 
 ---
@@ -90,4 +90,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&height=100&section=footer" />
 </p>
-```
