@@ -68,16 +68,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Linguagens mais usadas (opcional - mantenha se desejar) -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliveira-d3v&layout=compact&langs_count=8&theme=algolia&custom_title=Linguagens%20mais%20usadas&hide_border=false&border_color=A2D2FF&bg_color=1A1B27&title_color=A2D2FF&text_color=FFFFFF" />
-</p>
-
-<!--
-  ⚠️ Caso prefira apenas o streak, basta comentar/remover o bloco de "top-langs" acima.
-  O streak é mais estável e mostra consistência.
--->
-
 ---
 
 ### ⚡ Um pouco mais sobre mim
