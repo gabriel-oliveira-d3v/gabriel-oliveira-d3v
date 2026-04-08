@@ -50,12 +50,10 @@
   <!-- Backend -->
   <img title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
   <img title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <!-- Ferramentas -->
+  <!-- Ferramentas e os-->
   <img title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/mariadb-original.svg" />
-</p>
-<img title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/linux-original.svg" />
-</p>
+  <img title="MariaDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+<img title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 ---
 
